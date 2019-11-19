@@ -1,0 +1,14 @@
+{
+  "name": "ts-dep-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.26.35",
+    "typescript": "^3.7.2"
+  }
+}
