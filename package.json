@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "module": "src",
   "dependencies": {
     "ramda": "^0.26.1",
