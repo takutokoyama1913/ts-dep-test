@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
+  "module": "dist",
   "scripts": {
     "build": "tsc",
     "build:refresh": "npm run clean && npm run build",
