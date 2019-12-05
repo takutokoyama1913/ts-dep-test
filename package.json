@@ -6,10 +6,8 @@
   "scripts": {
     "build": "tsc",
     "build:refresh": "npm run clean && npm run build",
-    "clean": "rimraf dist/*",
-    "install": "npm run build"
+    "clean": "rimraf dist/*"
   },
-  "module": "src",
   "dependencies": {
     "ramda": "^0.26.1"
   },

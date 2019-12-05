@@ -8,8 +8,5 @@
     "outDir": "dist",
     "declaration": true,
     "declarationDir": "dist"
-  },
-  "exclude": [
-    "node_modules"
-  ]
+  }
 }
