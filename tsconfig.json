@@ -5,7 +5,9 @@
     "module": "esnext",
     "jsx": "preserve",
     "moduleResolution": "node",
-    "outDir": "dist"
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "dist"
   },
   "exclude": [
     "node_modules"
