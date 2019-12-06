@@ -11,10 +11,10 @@
     "clean": "rimraf dist/*"
   },
   "dependencies": {
+    "@types/ramda": "^0.26.35",
     "ramda": "^0.26.1"
   },
   "devDependencies": {
-    "@types/ramda": "^0.26.35",
     "rimraf": "^3.0.0",
     "typescript": "^3.7.2"
   }
